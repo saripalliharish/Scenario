@@ -1,0 +1,23 @@
+My strategies for handling the deployments in an eficient way are the continous collaboration of this five modules :
+
+1)Making the Applications—Business Capability Roles:These Teams work on the application or services being delivered.The core players
+in this module are developers,operations,product owner,Designer, Tester,Architect
+
+2)Platform Engineering:In this module the team and their roles are responsible for etending the capabilities of the cloud platform in use.They Makes enhancements to existing buildpacks 
+and builds new buildpacks for the platform. They Builds service broker to manage lifecycle of external resources and make them available to Pivotal Cloud Foundry apps.
+
+
+3)Application Operator :They are typically the operations people and serve as a supporting and oversight function to the business capabilities teams, 
+whether designated or dedicated.Their Roles are :
+1)Manages lifecycle and release management processes for apps running in Pivotal Cloud Foundry.
+2)Responsible for the continuous delivery process to build, deploy, and promote Pivotal Cloud Foundry applications.
+
+4)Platform Operator:They are typically Sys-Admin for the cloud platform itself and they have do the following roles:
+ 
+ 1)Manages IAAS(Infrastructure-AS-A-Service) that Pivotal Cloud Foundry is Deployed.
+
+ 2)Installs and configures Pivotal Cloud Foundry
+
+ 3)Performs Change Management Processes
+
+and the other roles are infrastructure they include Security and Networking Team
